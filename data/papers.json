@@ -1,9 +1,710 @@
 {
-  "generatedAt": "2026-09-24T09:20:51.015Z",
+  "generatedAt": "2026-09-24T10:19:02.443Z",
   "source": {
     "groupId": 6675069,
     "collectionKey": "46PVIB4L",
     "collectionName": "paper"
   },
-  "papers": []
+  "papers": [
+    {
+      "key": "UVTRJEB2",
+      "title": "Cortical orientation and layer dependence of bSSFP profile asymmetries in gray matter at 9.4 T",
+      "authors": [
+        "Florian Birk",
+        "Dana Ramadan",
+        "Ali Aghaeifar",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2026-05",
+      "year": 2026,
+      "venue": "conferencePaper",
+      "doi": null,
+      "url": "http://echo.ismrm.org/abstracts/view/7e033d94-8bdd-456e-a288-a55af524ce9d",
+      "abstract": null,
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/UVTRJEB2"
+    },
+    {
+      "key": "C7F9TGSG",
+      "title": "Field Strength‐Dependent White Matter <i>R</i><sub>1</sub> and <i>R</i><sub>2</sub> Anisotropy of Phase‐Cycled Balanced Steady‐State Free Precession Relaxometry",
+      "authors": [
+        "Florian Birk",
+        "Hamzeh Tesh",
+        "Ali Aghaeifar",
+        "Svenja Klinkowski",
+        "Praveen Iyyappan Valsala",
+        "Sebastian Mueller",
+        "Svenja Brodt",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2026-01-23",
+      "year": 2026,
+      "venue": "Magnetic Resonance in Medicine",
+      "doi": "10.1002/mrm.70255",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/mrm.70255",
+      "abstract": "ABSTRACT\n            \n              Purpose\n              \n                To investigate how the relaxation rates (\n                R\n                1\n                ,\n                R\n                2\n                ) and asymmetry indices (AI), derived from phase‐cycled balanced steady‐state free precession (pc‐bSSFP) data, depend on the orientation of white matter (WM) fiber tracts at different field strengths.\n              \n            \n            \n              Methods\n              \n                Phase‐cycled bSSFP data acquired at 3 and 9.4T in the healthy human brain were processed using motion‐insensitive rapid configuration relaxometry (MIRACLE) and a frequency response analysis to derive\n                R\n                1\n                ,\n                R\n                2\n                , and AI values, respectively. Fractional anisotropy (FA) and fiber‐to‐field angle (\n                θ\n                ) were estimated based on 3T diffusion tensor imaging. The orientation dependence of\n                R\n                1\n                ,\n                R\n                2\n                , and AI in WM was characterized using literature model fits as well as Monte Carlo random walk simulations to explore the influence of field strength and susceptibility effects.\n              \n            \n            \n              Results\n              \n                R\n                2\n                and AI exhibited a pronounced orientation dependence while the influence of anisotropy on\n                R\n                1\n                was weaker, but noticeable. The observed anisotropy increased systematically from 3 to 9.4T. Literature models assuming either a susceptibility or a generalized magic angle effect described the\n                R\n                2\n                and AI anisotropy to a high degree (\n                R\n                2\n                 ≥ 0.99). The calculated partial contributions of susceptibility to\n                R\n                2\n                anisotropy increased from 24.0%–39.0% at 3T to 77.0%–87.1% at 9.4T. The Monte Carlo simulations were able to reproduce the characteristics of\n                R\n                2\n                anisotropy, but not its strength.\n              \n            \n            \n              Conclusion\n              \n                Microstructure‐driven relaxation anisotropy considerably affects pc‐bSSFP relaxometry, in particular\n                R\n                2\n                . The findings indicate that\n                R\n                2\n                anisotropy is driven by susceptibility at ultra‐high fields whereas additional mechanisms likely contribute at lower field strengths.",
+      "tags": [
+        "mri-high-field",
+        "mri-simulation",
+        "mri-ssfp",
+        "own-paper",
+        "pc-bssfp",
+        "qmri",
+        "qmri-asymmetry-index",
+        "qmri-diffusion",
+        "qmri-microstructure",
+        "qmri-myelin",
+        "qmri-pc-bssfp",
+        "qmri-relaxometry",
+        "qmri-t1",
+        "qmri-t2",
+        "qmri-wm"
+      ],
+      "topics": [
+        "Mri High Field",
+        "Mri Simulation",
+        "Mri Ssfp",
+        "Own Paper",
+        "Pc Bssfp",
+        "Qmri",
+        "Qmri Asymmetry Index",
+        "Qmri Diffusion",
+        "Qmri Microstructure",
+        "Qmri Myelin",
+        "Qmri Pc Bssfp",
+        "Qmri Relaxometry",
+        "Qmri T1",
+        "Qmri T2",
+        "Qmri Wm"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/C7F9TGSG"
+    },
+    {
+      "key": "Y5FHXLN3",
+      "title": "Multi-Parametric Phase-Cycled Balanced Steady-State Free Precession Brain Tissue Characterization in Relapsing-Remitting Multiple Sclerosis",
+      "authors": [
+        "Florian Birk",
+        "Benjamin Bender",
+        "Hamzeh Tesh",
+        "Anagha Deshmane",
+        "Tobias Lindig",
+        "Ulrike Ernemann",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2026-06-22",
+      "year": 2026,
+      "venue": "Neuroscience",
+      "doi": "10.64898/2026.06.17.732900",
+      "url": "http://biorxiv.org/lookup/doi/10.64898/2026.06.17.732900",
+      "abstract": "Quantitative MRI enables the detection of subtle microstructural alterations in normal-appearing white matter (NAWM) associated with pathological conditions such as multiple sclerosis. Quantitative metrics including R\n            1\n            , R\n            2\n            , and the bSSFP asymmetry index (AI) were evaluated in the WM of 20 relapsing-remitting multiple sclerosis (RRMS) patients and 10 healthy controls (HC). A multi-parametric framework based on a phase-cycled balanced steady-state free precession (pc-bSSFP) sequence was used. Diffusion tensor imaging-derived measures, including fiber-to-field angle, number of fiber orientations, and fractional anisotropy, were incorporated to assess parameter anisotropy. Statistical analysis was performed using linear mixed-effects models to test for group, ROI, and group-by-ROI effects for each metric, with ROI-specific group comparisons derived from the model. Significant main effects of group, ROI, and group-by-ROI interaction were observed for both R\n            1\n            and R\n            2\n            , whereas for AI only the ROI effect reached significance (group p= 0.462; group-by-ROI p = 0.786). Fourteen of sixteen ROIs demonstrated significantly lower R\n            1\n            and R\n            2\n            values in RRMS compared with HC. No ROI showed significant differences in AI. In conclusion, pc-bSSFP-based relaxometry reveals predominantly white matter alterations in RRMS, while enabling a comprehensive whole-brain assessment that also encompasses gray matter.",
+      "tags": [
+        "machine learning",
+        "own-paper",
+        "pc-bssfp",
+        "qmri",
+        "qmri-asymmetry-index"
+      ],
+      "topics": [
+        "Machine Learning",
+        "Own Paper",
+        "Pc Bssfp",
+        "Qmri",
+        "Qmri Asymmetry Index"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/Y5FHXLN3"
+    },
+    {
+      "key": "FF6QGR5R",
+      "title": "Correction: Easy scalable, low-cost open-source magnetic field detection system for evaluating low-field MRI magnets using a motion-tracked robot",
+      "authors": [
+        "Pavel Povolni",
+        "Robin Bendfeld",
+        "Sergej Maltsev",
+        "Judith Samlow",
+        "Felix Glang",
+        "Praveen Iyyappan Valsala",
+        "Dominique Goerner",
+        "Dario Bosch",
+        "Sebastian Mueller",
+        "Florian Birk",
+        "Kai Buckenmaier",
+        "Klaus Scheffler"
+      ],
+      "date": "2025-05-27",
+      "year": 2025,
+      "venue": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+      "doi": "10.1007/s10334-025-01258-y",
+      "url": "https://link.springer.com/10.1007/s10334-025-01258-y",
+      "abstract": null,
+      "tags": [
+        "journal-co-author",
+        "own-paper",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Journal Co Author",
+        "Own Paper",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/FF6QGR5R"
+    },
+    {
+      "key": "WZE4SCIB",
+      "title": "Dependency on Tissue Anisotropy and White Matter Fiber Orientation of Phase-Cycled bSSFP Relaxometry at 3 Tesla",
+      "authors": [
+        "Hamzeh Tesh",
+        "Florian Birk",
+        "Svenja Klinkowski",
+        "Svenja Brodt",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2025-05",
+      "year": 2025,
+      "venue": "conferencePaper",
+      "doi": "10.58530/2025/1697",
+      "url": "https://archive.ismrm.org/2025/1697.html",
+      "abstract": "Motivation: Magnetic resonance relaxation anisotropy in tissue has been reported previously for both T1 and T2, with implications to assess the integrity of tissue microstructure. Goal(s): To evaluate the dependency on brain tissue anisotropy and white matter fiber orientation of relaxometry metrics (T1, T2) and asymmetry index (AI), derived from phase-cycled bSSFP (pc-bSSFP), in a large cohort of healthy subjects. Approach: 80 healthy subjects were scanned at 3T using pc-bSSFP and diffusion tensor imaging. T1 and T2 were quantified using MIRACLE - an SSFP configuration-based approach. Results: All metrics (T1, T2, AI) showed a distinct sensitivity to white matter fiber orientation and fractional anisotropy. Impact: Relaxation parameters and frequency profile asymmetries derived from pc-bSSFP demonstrated a distinct sensitivity to brain tissue microstructure, with a dependency on white matter fiber orientation and fractional anisotropy.",
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/WZE4SCIB"
+    },
+    {
+      "key": "DXTN6G9W",
+      "title": "Easy scalable, low-cost open-source magnetic field detection system for evaluating low-field MRI magnets using a motion-tracked robot",
+      "authors": [
+        "Pavel Povolni",
+        "Robin Bendfeld",
+        "Sergej Maltsev",
+        "Judith Samlow",
+        "Felix Glang",
+        "Praveen Iyyappan Valsala",
+        "Dominique Goerner",
+        "Dario Bosch",
+        "Sebastian Mueller",
+        "Florian Birk",
+        "Kai Buckenmaier",
+        "Klaus Scheffler"
+      ],
+      "date": "2025-04-05",
+      "year": 2025,
+      "venue": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+      "doi": "10.1007/s10334-025-01239-1",
+      "url": "https://link.springer.com/10.1007/s10334-025-01239-1",
+      "abstract": "Abstract\n            \n              Objective\n              Low-field magnetic resonance imaging is currently developing into a valuable diagnostic tool due to its simplicity of magnet array designs. Particularly, this allows the development of scanners as part of educational workshops, thus ensuring knowledge transfer and empowering local scientists to design tailored solutions for specific local problems. To obtain the maximum performance, the magnet needs to be shimmed requiring an automated system measuring the spatial magnetic field distribution.\n            \n            \n              Methods\n              A self-designed measuring probe based on commercial integrated Hall sensor chips is used and optimized by calibrating it in an easy-to-build calibration system. For positioning of the sensor, a low-cost five-degree-of-freedom robot arm is used and improved by camera-based motion tracking for precise localization of the sensor.\n            \n            \n              Results\n              \n                The system is able to map the field of a\n                \n                  \n                    $$45\\text{mT}$$\n                    \n                      \n                        45\n                        mT\n                      \n                    \n                  \n                \n                -Halbach desktop MR magnet, as well as a self-designed x-gradient (used inside the magnet) with an efficiency of\n                \n                  \n                    $$2\\text{mT}/\\text{m}/\\text{A}$$\n                    \n                      \n                        2\n                        mT\n                        /\n                        m\n                        /\n                        A\n                      \n                    \n                  \n                \n                . The built-up Hall sensor demonstrates a level of precision that is competitive with commercial sensors. The entire positioning system can be freely scaled to accommodate larger designs by adjusting the kinematics.\n              \n            \n            \n              Conclusion\n              The presented system is demonstrated to be comparable to already established measurement systems, while the costs, setup times, and mapping duration are greatly reduced.",
+      "tags": [
+        "own-paper",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Paper",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/DXTN6G9W"
+    },
+    {
+      "key": "UTHTTRYV",
+      "title": "Easy scalable, low-cost open-source magnetic field detection system for evaluating low-field MRI magnets using a motion-tracked robot",
+      "authors": [
+        "Pavel Povolni",
+        "Robin Bendfeld",
+        "Sergej Maltsev",
+        "Judith Samlow",
+        "Felix Glang",
+        "Praveen Iyyappan Valsala",
+        "Dominique Goerner",
+        "Dario Bosch",
+        "Sebastian Mueller",
+        "Florian Birk",
+        "Kai Buckenmaier",
+        "Klaus Scheffler"
+      ],
+      "date": "2025-04-05",
+      "year": 2025,
+      "venue": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+      "doi": "10.1007/s10334-025-01239-1",
+      "url": "https://link.springer.com/10.1007/s10334-025-01239-1",
+      "abstract": "Abstract\n            \n              Objective\n              Low-field magnetic resonance imaging is currently developing into a valuable diagnostic tool due to its simplicity of magnet array designs. Particularly, this allows the development of scanners as part of educational workshops, thus ensuring knowledge transfer and empowering local scientists to design tailored solutions for specific local problems. To obtain the maximum performance, the magnet needs to be shimmed requiring an automated system measuring the spatial magnetic field distribution.\n            \n            \n              Methods\n              A self-designed measuring probe based on commercial integrated Hall sensor chips is used and optimized by calibrating it in an easy-to-build calibration system. For positioning of the sensor, a low-cost five-degree-of-freedom robot arm is used and improved by camera-based motion tracking for precise localization of the sensor.\n            \n            \n              Results\n              \n                The system is able to map the field of a\n                \n                  \n                    $$45\\text{mT}$$\n                    \n                      \n                        45\n                        mT\n                      \n                    \n                  \n                \n                -Halbach desktop MR magnet, as well as a self-designed x-gradient (used inside the magnet) with an efficiency of\n                \n                  \n                    $$2\\text{mT}/\\text{m}/\\text{A}$$\n                    \n                      \n                        2\n                        mT\n                        /\n                        m\n                        /\n                        A\n                      \n                    \n                  \n                \n                . The built-up Hall sensor demonstrates a level of precision that is competitive with commercial sensors. The entire positioning system can be freely scaled to accommodate larger designs by adjusting the kinematics.\n              \n            \n            \n              Conclusion\n              The presented system is demonstrated to be comparable to already established measurement systems, while the costs, setup times, and mapping duration are greatly reduced.",
+      "tags": [
+        "journal-co-author",
+        "own-paper",
+        "thesis-main",
+        "thesis_other_publications",
+        "thesis_outlook"
+      ],
+      "topics": [
+        "Journal Co Author",
+        "Own Paper",
+        "Thesis Main",
+        "Thesis Other Publications",
+        "Thesis Outlook"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/UTHTTRYV"
+    },
+    {
+      "key": "397PT7BB",
+      "title": "Flexible and cost-effective deep learning for accelerated multi-parametric relaxometry using phase-cycled bSSFP",
+      "authors": [
+        "Florian Birk",
+        "Lucas Mahler",
+        "Julius Steiglechner",
+        "Qi Wang",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2025-02-09",
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-025-88579-z",
+      "url": "https://www.nature.com/articles/s41598-025-88579-z",
+      "abstract": "Abstract\n            To accelerate the clinical adoption of quantitative magnetic resonance imaging (qMRI), frameworks are needed that not only allow for rapid acquisition, but also flexibility, cost efficiency, and high accuracy in parameter mapping. In this study, feed-forward deep neural network (DNN)- and iterative fitting-based frameworks are compared for multi-parametric (MP) relaxometry based on phase-cycled balanced steady-state free precession (pc-bSSFP) imaging. The performance of supervised DNNs (SVNN), self-supervised physics-informed DNNs (PINN), and an iterative fitting framework termed motion-insensitive rapid configuration relaxometry (MIRACLE) was evaluated in silico and in vivo in brain tissue of healthy subjects, including Monte Carlo sampling to simulate noise. DNNs were trained on three distinct in silico parameter distributions and at different signal-to-noise-ratios. The PINN framework, which incorporates physical knowledge into the training process, ensured more consistent inference and increased robustness to training data distribution compared to the SVNN. Furthermore, DNNs utilizing the full information of the underlying complex-valued MR data demonstrated ability to accelerate the data acquisition by a factor of 3. Whole-brain relaxometry using DNNs proved to be effective and adaptive, suggesting the potential for low-cost DNN retraining. This work emphasizes the advantages of in silico DNN MP-qMRI pipelines for rapid data generation and DNN training without extensive dictionary generation, long parameter inference times, or prolonged data acquisition, highlighting the flexible and rapid nature of lightweight machine learning applications for MP-qMRI.",
+      "tags": [
+        "MRI",
+        "machine learning",
+        "monte-carlo-simulation",
+        "mri-ssfp",
+        "own-paper",
+        "paper-2025-01-orientation-dep-qmri",
+        "paper-2025-08-qmri-ms-3t",
+        "paper-mpi",
+        "pc-bssfp",
+        "qmri",
+        "qmri-machine-learning",
+        "qmri-pc-bssfp",
+        "qmri-relaxometry",
+        "qmri-t1",
+        "qmri-t2"
+      ],
+      "topics": [
+        "MRI",
+        "Machine Learning",
+        "Monte Carlo Simulation",
+        "Mri Ssfp",
+        "Own Paper",
+        "Paper 2025 01 Orientation Dep Qmri",
+        "Paper 2025 08 Qmri Ms 3t",
+        "Paper Mpi",
+        "Pc Bssfp",
+        "Qmri",
+        "Qmri Machine Learning",
+        "Qmri Pc Bssfp",
+        "Qmri Relaxometry",
+        "Qmri T1",
+        "Qmri T2"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/397PT7BB"
+    },
+    {
+      "key": "EAISXBAK",
+      "title": "Phase-Cycled Balanced Steady-State Free Precession Multi-Parametric Mapping in Relapsing-Remitting Multiple Sclerosis",
+      "authors": [
+        "Florian Birk",
+        "Hamzeh Tesh",
+        "Benjamin Bender",
+        "Silke Buschbach",
+        "Uta Groeper",
+        "Praveen Iyyappan Valsala",
+        "Anagha Deshmane",
+        "Tobias Lindig",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2025-05",
+      "year": 2025,
+      "venue": "conferencePaper",
+      "doi": "10.58530/2025/3743",
+      "url": "https://archive.ismrm.org/2025/3743.html",
+      "abstract": "Motivation: Multiple sclerosis (MS) requires frequent monitoring to detect lesions or alterations in normal-appearing tissue microstructure. Goal(s): Compare tissue-specific metrics like T1, T2, and frequency response asymmetry indices (AI) between healthy controls (HC) and patients with relapsing-remitting MS (RRMS). Approach: Three HC and nine RRMS were scanned at 3T. Quantitative metrics were analyzed by assessing mean values and dependencies on tissue anisotropy and white matter (WM) fiber orientation. Results: Mean relaxometry differences between normal-appearing WM in HC and RRMS as well as RRMS lesion could be observed. A trend towards reduced orientation dependency was apparent for T1, T2, and AI, especially for RRMS lesions. Impact: This study marks the first application of MP-qMRI with pc-bSSFP imaging for assessing tissue changes in RRMS patients.",
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/EAISXBAK"
+    },
+    {
+      "key": "Z29KS3G9",
+      "title": "Submillimeter Ultra-High Field 9.4 T Brain MR Image Collection and Manual Cortical Segmentations",
+      "authors": [
+        "Lucas Mahler",
+        "Julius Steiglechner",
+        "Benjamin Bender",
+        "Tobias Lindig",
+        "Dana Ramadan",
+        "Jonas Bause",
+        "Florian Birk",
+        "Rahel Heule",
+        "Edyta Charyasz",
+        "Michael Erb",
+        "Vinod Jangir Kumar",
+        "Gisela E. Hagberg",
+        "Pascal Martin",
+        "Gabriele Lohmann",
+        "Klaus Scheffler"
+      ],
+      "date": "2025-04-15",
+      "year": 2025,
+      "venue": "Scientific Data",
+      "doi": "10.1038/s41597-025-04779-2",
+      "url": "https://www.nature.com/articles/s41597-025-04779-2",
+      "abstract": "Abstract\n            \n              The\n              UltraCortex\n              repository houses magnetic resonance imaging data of the human brain obtained at an ultra-high field strength of 9.4 T. It contains 86 structural MR images with spatial resolutions ranging from 0.6 to 0.8 mm. Additionally, the repository includes segmentations of 12 brains into gray and white matter compartments. These segmentations have been independently validated by two expert neuroradiologists, thus establishing them as a reliable gold standard. This resource provides researchers with access to high-quality brain imaging data and validated segmentations, facilitating neuroimaging studies and advancing our understanding of brain structure and function. Existing repositories do not accommodate field strengths beyond 7 T, nor do they offer validated segmentations, underscoring the significance of this new resource.",
+      "tags": [
+        "journal-co-author",
+        "own-paper",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Journal Co Author",
+        "Own Paper",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/Z29KS3G9"
+    },
+    {
+      "key": "YVEY8CH9",
+      "title": "Distribution-free uncertainty estimation in multi-parametric quantitative MRI through conformalized quantile regression",
+      "authors": [
+        "Florian Birk",
+        "Lucas Mahler",
+        "Julius Steiglechner",
+        "Qi Wang",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2024-05",
+      "year": 2024,
+      "venue": "conferencePaper",
+      "doi": "10.58530/2024/2228",
+      "url": "https://archive.ismrm.org/2024/2228.html",
+      "abstract": "Motivation: When using black-box regression models in diagnostic imaging, it is critical to quantify the uncertainty of such model predictions. Goal(s): Implementing and understanding uncertainty quantification for multi-parametric quantitative MRI. Do prediction intervals reflect model uncertainty? Approach: Train conditional quantile regression deep neural networks with subsequent conformalization steps for multi-parametric quantitative mapping without making distributional assumptions about the data. Results: Conformalized relaxometry and magnetic field prediction intervals reflect model uncertainty. Conformalized quantile regression was successfully implemented and provides supportive information about intrinsic model uncertainty which is mandatory for clinical decision making. Impact: A novel  method for quantifying uncertainty of supervised machine learning  models for multi-parametric quantitative MRI was successfully tested  in silico and in vivo. Conformalized quantile regression allows  prediction of confidence intervals without making assumptions about  the training data distribution.",
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications",
+        "thesis_outlook"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications",
+        "Thesis Outlook"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/YVEY8CH9"
+    },
+    {
+      "key": "UWYNC79G",
+      "title": "A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging",
+      "authors": [
+        "Qi Wang",
+        "Lucas Mahler",
+        "Julius Steiglechner",
+        "Florian Birk",
+        "Klaus Scheffler",
+        "Gabriele Lohmann"
+      ],
+      "date": "2023",
+      "year": 2023,
+      "venue": "conferencePaper",
+      "doi": "10.1007/978-3-031-44858-4_3",
+      "url": "https://link.springer.com/10.1007/978-3-031-44858-4_3",
+      "abstract": null,
+      "tags": [
+        "conference-paper",
+        "own-paper",
+        "thesis-main",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Conference Paper",
+        "Own Paper",
+        "Thesis Main",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/UWYNC79G"
+    },
+    {
+      "key": "TP388F85",
+      "title": "Balanced steady-state free precession imaging and associated rapid relaxation time mapping on a point-of-care 46 mT Halbach MRI scanner",
+      "authors": [
+        "Chloé Najac",
+        "Florian Birk",
+        "Tom O’Reilly",
+        "Klaus Scheffler",
+        "Andrew Webb",
+        "Rahel Heule"
+      ],
+      "date": "2023-05",
+      "year": 2023,
+      "venue": "conferencePaper",
+      "doi": "10.58530/2023/1587",
+      "url": "https://archive.ismrm.org/2023/1587.html",
+      "abstract": "Point-of-care imaging with low-field MRI (<0.1T) is a potential game changer for low-income countries and the intensive care unit. The main challenge is the low SNR. Balanced steady-state free precession (bSSFP) sequences are fast and SNR-efficient. However, bSSFP is very sensitive to B0 inhomogeneities resulting in banding artifacts. We evaluated the feasibility of using bSSFP on our 46 mT MRI scanner. By acquiring 17 bSSFP datasets with linearly increasing frequency offsets (from 0 to 1/TR), we could reconstruct banding-free maximum-intensity images as well as F0 and F-1 SSFP configurations, which we employed for rapid relaxation time mapping.",
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/TP388F85"
+    },
+    {
+      "key": "26JEFFXX",
+      "title": "DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning",
+      "authors": [
+        "Qi Wang",
+        "Lucas Mahler",
+        "Juliu Steiglechner",
+        "Florian Birk",
+        "Klaus Scheffler",
+        "Gabriele Lohmann"
+      ],
+      "date": "2023-10-2",
+      "year": 2023,
+      "venue": "conferencePaper",
+      "doi": "10.1109/ICCVW60793.2023.00259",
+      "url": "https://ieeexplore.ieee.org/document/10350957/",
+      "abstract": "MRI super-resolution (SR) and denoising tasks are fundamental challenges in the ﬁeld of deep learning, which have traditionally been treated as distinct tasks with separate paired training data. In this paper, we propose an innovative method that addresses both tasks simultaneously using a single deep learning model, eliminating the need for explicitly paired noisy and clean images during training. Our proposed model is primarily trained for SR, but also exhibits remarkable noise-cleaning capabilities in the super-resolved images. Instead of conventional approaches that introduce frequency-related operations into the generative process, our novel approach involves the use of a GAN model guided by a frequency-informed discriminator. To achieve this, we harness the power of the 3D Discrete Wavelet Transform (DWT) operation as a frequency constraint within the GAN framework for the SR task on magnetic resonance imaging (MRI) data. Speciﬁcally, our contributions include: 1) a 3D generator based on residualin-residual connected blocks; 2) the integration of the 3D DWT with 1 × 1 convolution into a DWT+conv unit within a 3D Unet for the discriminator; 3) the use of the trained model for high-quality image SR, accompanied by an intrinsic denoising process. We dub the model ”Denoising Induced Super-resolution GAN (DISGAN)” due to its dual effects of SR image generation and simultaneous denoising. Departing from the traditional approach of training SR and denoising tasks as separate models, our proposed DISGAN is trained only on the SR task, but also achieves exceptional performance in denoising. The model is trained on 3D MRI data from dozens of subjects from the Human Connectome Project (HCP) and further evaluated on previously unseen MRI data from subjects with brain tumours and epilepsy to assess its denoising and SR performance. Our code is available at https://github.com/wqlevi/DISGAN .",
+      "tags": [
+        "conference-paper",
+        "own-paper",
+        "thesis-main",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Conference Paper",
+        "Own Paper",
+        "Thesis Main",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/26JEFFXX"
+    },
+    {
+      "key": "LJB3J92A",
+      "title": "Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification",
+      "authors": [
+        "Lucas Mahler",
+        "Qi Wang",
+        "Julius Steiglechner",
+        "Florian Birk",
+        "Samuel Heczko",
+        "Klaus Scheffler",
+        "Gabriele Lohmann"
+      ],
+      "date": "2023",
+      "year": 2023,
+      "venue": "conferencePaper",
+      "doi": "10.1007/978-3-031-44858-4_12",
+      "url": "https://link.springer.com/10.1007/978-3-031-44858-4_12",
+      "abstract": null,
+      "tags": [
+        "conference-paper",
+        "own-paper",
+        "thesis-main",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Conference Paper",
+        "Own Paper",
+        "Thesis Main",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/LJB3J92A"
+    },
+    {
+      "key": "T67TEGXW",
+      "title": "Ultrafast submillimeter model-based NN quantification of whole-brain T1 and T2 using phase-cycled bSSFP",
+      "authors": [
+        "Florian Birk",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2023-05",
+      "year": 2023,
+      "venue": "conferencePaper",
+      "doi": "10.58530/2023/3297",
+      "url": "https://archive.ismrm.org/2023/3297.html",
+      "abstract": "The bSSFP sequence is intrinsically sensitive to T1 and T2, motion robust, and allows highly efficient data acquisition. Slow convergence in qMRI parameter fitting can potentially be mitigated by machine learning, which benefits greatly from the availability of accurate ground truth data. This work presents an unsupervised model-based NN that incorporates the analytical bSSFP signal equation into the training loop, thus avoiding the need for ground truth relaxometry measurements and enabling instantaneous multi-parametric submillimeter whole-brain mapping of T1 and T2. NN performance was compared to MIRACLE quantitatively for in silico noise corrupted data and qualitatively for in vivo data.",
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/T67TEGXW"
+    },
+    {
+      "key": "N42DTYIG",
+      "title": "Investigating complex-valued neural networks applied to phase-cycled bSSFP for multi-parametric quantitative tissue characterization",
+      "authors": [
+        "Florian Birk",
+        "Julius Steiglechner",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2022-05",
+      "year": 2022,
+      "venue": "conferencePaper",
+      "doi": "10.58530/2022/2532",
+      "url": "https://archive.ismrm.org/2022/2532.html",
+      "abstract": "The bSSFP sequence is highly sensitive to relaxation parameters, tissue microstructure, and off-resonance frequencies, which has recently been shown to enable multi-parametric tissue characterization in the human brain using real-valued NNs. In this work, a new approach based on complex-valued NNs for voxel-wise simultaneous multi-parametric quantitative mapping with phase-cycled bSSFP input data is presented, possibly facilitating data handling. Relaxometry parameters (T1, T2) and field map estimates (B1\n              +\n              , &Delta;B0) could be quantified with high robustness and accuracy. The quantitative results were compared for different activation functions, favoring phase-sensitive implementations.",
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/N42DTYIG"
+    },
+    {
+      "key": "L74QR3Y5",
+      "title": "High‐resolution neural network‐driven mapping of multiple diffusion metrics leveraging asymmetries in the balanced steady‐state free precession frequency profile",
+      "authors": [
+        "Florian Birk",
+        "Felix Glang",
+        "Alexander Loktyushin",
+        "Christoph Birkl",
+        "Philipp Ehses",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2021-12-29",
+      "year": 2021,
+      "venue": "NMR in Biomedicine",
+      "doi": "10.1002/nbm.4669",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/nbm.4669",
+      "abstract": null,
+      "tags": [
+        "MRI",
+        "machine learning",
+        "mri-high-field",
+        "mri-ssfp",
+        "own-paper",
+        "paper-2025-01-orientation-dep-qmri",
+        "paper-2025-08-qmri-ms-3t",
+        "pc-bssfp",
+        "qmri",
+        "qmri-asymmetry-index",
+        "qmri-diffusion",
+        "qmri-machine-learning",
+        "qmri-microstructure",
+        "qmri-pc-bssfp",
+        "qmri-wm"
+      ],
+      "topics": [
+        "MRI",
+        "Machine Learning",
+        "Mri High Field",
+        "Mri Ssfp",
+        "Own Paper",
+        "Paper 2025 01 Orientation Dep Qmri",
+        "Paper 2025 08 Qmri Ms 3t",
+        "Pc Bssfp",
+        "Qmri",
+        "Qmri Asymmetry Index",
+        "Qmri Diffusion",
+        "Qmri Machine Learning",
+        "Qmri Microstructure",
+        "Qmri Pc Bssfp",
+        "Qmri Wm"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/L74QR3Y5"
+    },
+    {
+      "key": "XK69J2XK",
+      "title": "NN-driven mapping of multiple diffusion metrics at high to ultra-high resolution using the bSSFP frequency profile",
+      "authors": [
+        "Florian Birk",
+        "Felix Glang",
+        "Alexander Loktyushin",
+        "Christoph Birkl",
+        "Philipp Ehses",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2021-09",
+      "year": 2021,
+      "venue": "conferencePaper",
+      "doi": null,
+      "url": null,
+      "abstract": null,
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/XK69J2XK"
+    },
+    {
+      "key": "CDCFHL74",
+      "title": "Quantification of multiple diffusion metrics from asymmetric balanced SSFP frequency profiles using neural networks",
+      "authors": [
+        "Florian Birk",
+        "Felix Glang",
+        "Christoph Birkl",
+        "Klaus Scheffler",
+        "Rahel Heule"
+      ],
+      "date": "2021-05",
+      "year": 2021,
+      "venue": "conferencePaper",
+      "doi": null,
+      "url": null,
+      "abstract": null,
+      "tags": [
+        "own-abstracts",
+        "thesis_other_publications"
+      ],
+      "topics": [
+        "Own Abstracts",
+        "Thesis Other Publications"
+      ],
+      "featured": false,
+      "zoteroUrl": "https://www.zotero.org/groups/6675069/items/CDCFHL74"
+    }
+  ]
 }
